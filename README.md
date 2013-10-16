@@ -3,7 +3,7 @@ ODMTSA
 
 A web application for visualizing data stored in an ODM database.
 
-<p align="center"><img src="https://github.com/UCHIC/ODMMAP/raw/master/doc/images/odmtsa.jpg"></p>
+<p align="center"><img src="https://github.com/UCHIC/ODMTSA/raw/master/doc/images/odmtsa.jpg"></p>
 
 Sponsors
 ---------
