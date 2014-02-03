@@ -1,7 +1,7 @@
 ODMTSA
 ======
 
-A web application for visualizing data stored in an ODM database.
+A web application for visualizing environmental time series data stored in a CUAHSI HIS Observations Data Model (ODM) database.
 
 <p align="center"><img src="https://github.com/UCHIC/ODMTSA/raw/master/doc/images/odmtsa.jpg"></p>
 
